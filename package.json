@@ -1,0 +1,12 @@
+{
+ "name": "linkit",
+ "title": "LinkIt",
+ "description": "Simple jQuery plugin to convert any element into a link.",
+ "keywords": ["jquery-plugin", "link", "html", "content"],
+ "version": "0.1.0",
+ "author": "Yahia Hamed <yfalcon1104@gmail.com>",
+ "license": "MIT",
+ "homepage": "https://github.com/Yahia-Falcon/jQuery.LinkIt",
+ "docs": "https://github.com/Yahia-Falcon/jQuery.LinkIt",
+ "dependencies": {"jquery": ">=3.3.1"}
+}
